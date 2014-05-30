@@ -4,10 +4,10 @@ Mi nombre es Alejandro Benitez, soy profesor del área de Ciencias Computacional
 Mi nombre es Jorge, tengo 24 años. Soy estudiante de Ingeniería en Ciencias Computacionales especialización en Sistemas Multimedia. Además de ser estudiante, me dedico al desarrollo de videojuegos. Formo parte de un estudio de desarrollo de videojuegos, del cual soy cofundador y productor. Dentro de mis hobbies tengo jugar videojuegos y practicar kendo, un arte marcial japonesa.
 
 
-Mi nombre es Erick, vivo en Guayaquil al norte de la ciudad, Tengo 24 Años de edad, Estudio en la ESPOL, Ingeniería en Sistemas Computacionales especialización Sistemas de Información. Mi estatura es de 1.60 m y peso 55 kg. Me gusta jugar fútbol. Actualmente trabajo en una institución educativa como docente. Mi celular es 0991688888 y mi correo es santiago_6@mail.com.
+Mi nombre es Erick, vivo en Guayaquil al norte de la ciudad, Tengo 24 años de edad, Estudio en la ESPOL, Ingeniería en Sistemas Computacionales especialización Sistemas de Información. Mi estatura es de 1.60 m y peso 55 kg. Me gusta jugar fútbol. Actualmente trabajo en una institución educativa como docente. Mi celular es 0991688888 y mi correo es santiago_6@mail.com.
 
 
-Mi nombre es Joe, Soy estudiante de ingeniería Ciencias Computacionales tengo 23 años, vivo en Guayaquil, soy de la Facultad de Ingeniería en Electricidad y Computación, mido 1.69 de estatura, tengo 3 hermanos, me gusta la música clásica, mi correo es ure.espol.edu.ec. Tengo 6 materias registradas, tengo 3 comidas favoritas, una de ellas es el encebollado, tengo 30 horas de clases a la semana. Bueno no sé qué más debo escribir ya tengo 5 líneas. Tengo 2 mascotas, 1 Perro y 1 Gato. Telefono 0989786378.
+Mi nombre es Joe, Soy estudiante de ingeniería Ciencias Computacionales tengo 23 años, vivo en Guayaquil, soy de la Facultad de Ingeniería en Electricidad y Computación, mido 1.69 de estatura, tengo 3 hermanos, me gusta la música clásica, mi correo es ure@espol.edu.ec. Tengo 6 materias registradas, tengo 3 comidas favoritas, una de ellas es el encebollado, tengo 30 horas de clases a la semana. Bueno no sé qué más debo escribir ya tengo 5 líneas. Tengo 2 mascotas, 1 Perro y 1 Gato. Telefono 0989786378.
 
 
 Mi nombre es Victor tengo 24 años mi fecha de nacimiento es el 10/08/1989, soy estudiante de la Escuela Superior Politécnica del Litoral mi carrera de estudio es Ingeniería en Ciencias Computacionales Orientación Tecnológico, mi lugar de nacimiento es en Guayaquil y por ende ecuatoriano.
@@ -43,7 +43,7 @@ Mi nombre es Cristian Pisco, tengo 20 años y estoy siguiendo la especializació
 Hola me llamo Luis Eduardo, mi email es luis@hotmail.com, mi número de teléfono es 0999999999, vivo en Guayaquil, mi dirección es Cdla Atarazana Mz D villa 191, mi carrera es Ingeniería en Ciencias Computacionales especialización Sistemas Multimedia, estudio en la Espol, mis hobbies son jugar fútbol y escuchar música, mi estatura es 1.69 m y mi peso es 140 libras, mi color favorito es el verde, mi número de cédula es 0924734564.
 
 
-Mi nombre es Janna Barreto. Tengo 21 años, peso 55kg y mido 1.60 m de estatura. Vivo en Guayaquil, estudio en Espol,  sigo la carrera de Ingeniería en Ciencias Computacionales especialización Sistemas de Información.Y mi color favorito es el rosado.
+Mi nombre es Janna Barreto. Tengo 21 años, peso 55kg y mido 1.60 m de estatura. Vivo en Guayaquil, estudio en Espol,  sigo la carrera de Ingeniería en Ciencias Computacionales especialización Sistemas de Información. Y mi color favorito es el rosado.
 
 
 Mi nombre es Ángel Guale, tengo 20 años, Soy estudiante de la carrera de Ingeniería en Ciencias Computacionales especialización Sistemas Tecnológicos en la Escuela Superior Politécnica del litoral. Mi correo en Espol es xngelguale@espol.edu.ec. Nací en la península de Santa Elena, en la ciudad de La Libertad, pero ahora vivo en Guayaquil. He trabajado de Ayudante Académico en el Departamento de Matemáticas en la materia de Álgebra Lineal y Cálculo de Varias Variables.
